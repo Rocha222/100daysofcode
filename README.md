@@ -9,7 +9,8 @@ este es mi commit inicial
 - crear repositorio
 - crear llave sch
 - git add nombre de archivo (stage)
-- git push origin master (commit)
+- git commit -m "nombre de archivo" (commit)
+- git push origin master (subir cambios)
 - markdown
 
 ## notas
