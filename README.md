@@ -45,4 +45,4 @@ este es mi commit inicial
 - debe de existir el h anterior partiendo desde el h1
 - el h1 es opcional siempre y cuando ya exista un h1 en otra página
 - nunca utilizar un h solo por estilo (debe de ser utilizado de manera jerárquica)
-- strong funciona como keyword (no debe de ser usado sólo por estilo)
+- strong funciona como keyword (ayuda a posicionar la pagina, no debe de ser usado sólo por estilo)
