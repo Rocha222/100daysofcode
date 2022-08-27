@@ -46,3 +46,21 @@ este es mi commit inicial
 - el h1 es opcional siempre y cuando ya exista un h1 en otra página
 - nunca utilizar un h solo por estilo (debe de ser utilizado de manera jerárquica)
 - strong funciona como keyword (ayuda a posicionar la pagina, no debe de ser usado sólo por estilo)
+
+# Día 3
+
+- tablas
+- table
+- thead (cabecera de tabla)
+- th (encabezado)
+- tbody (cuerpo de la tabla)
+- tr (renglón)
+- td (table data cell)
+- tfoot (pie de tabla)
+
+## Notas
+
+- los th van dentro del thead
+- los td van dentro del tr
+- la cantidad de td debe de ser igual a la de th
+- tr, td y tfoot se úbican dentro de tbody
