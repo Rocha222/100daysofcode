@@ -64,3 +64,19 @@ este es mi commit inicial
 - los td van dentro del tr
 - la cantidad de td debe de ser igual a la de th
 - tr, td y se úbican dentro de tbody
+
+# Día 4
+
+- estructura de una etiqueta
+- listas ordenadas
+- listas desordenadas (Bullet lists)
+- a (Anchor tag)
+- ol (ordered list)
+- ul (unordered list)
+- li (list item)
+
+## Notas
+
+- las etiquetas pueden tener atributos
+- a (anchor tag) se utiliza para agregar links
+- a "target_Blank" redirecciona al link manteniendo la página principal
