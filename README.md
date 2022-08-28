@@ -63,4 +63,4 @@ este es mi commit inicial
 - los th van dentro del thead
 - los td van dentro del tr
 - la cantidad de td debe de ser igual a la de th
-- tr, td y tfoot se úbican dentro de tbody
+- tr, td y se úbican dentro de tbody
