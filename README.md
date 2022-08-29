@@ -79,4 +79,4 @@ este es mi commit inicial
 
 - las etiquetas pueden tener atributos
 - a (anchor tag) se utiliza para agregar links
-- <a>href= target="\_balnk"</a> redirecciona al link manteniendo la página principal
+- <a>href""= target="\_blank"</a> redirecciona al link manteniendo la página principal
