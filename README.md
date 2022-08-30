@@ -80,3 +80,17 @@ este es mi commit inicial
 - las etiquetas pueden tener atributos
 - a (anchor tag) se utiliza para agregar links
 - <a>href="" target="\_blank"</a> redirecciona al link manteniendo la página principal
+
+# Día 5
+
+- elementos en bloque
+- elementos en línea
+- img
+- div
+
+## Notas
+
+- los elementos en bloque abarcan todo el espacio de la linea de izquierda a derecha
+- los elementos en línea abarcan unicamente el tamaño del contenido
+- la etiqueta img se usa para agregar imagenes (src="fuente de la imagen" alt="descripción de la imagen")
+- div cumple función de contenedor
