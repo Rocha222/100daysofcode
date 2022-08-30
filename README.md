@@ -94,3 +94,18 @@ este es mi commit inicial
 - los elementos en línea abarcan unicamente el tamaño del contenido
 - la etiqueta img se usa para agregar imagenes (src="fuente de la imagen" alt="descripción de la imagen")
 - div y span cumplen función de contenedor
+
+# Día 6
+
+- HTML Semántico
+- input
+- buttons
+- aside
+- main
+- nav
+-
+
+# Notas
+
+- es la correcta utilización de las etiquetas HTML y prevenir maquetar toda la página web con divs y spans
+-
