@@ -93,4 +93,4 @@ este es mi commit inicial
 - los elementos en bloque abarcan todo el espacio de la linea de izquierda a derecha
 - los elementos en línea abarcan unicamente el tamaño del contenido
 - la etiqueta img se usa para agregar imagenes (src="fuente de la imagen" alt="descripción de la imagen")
-- div cumple función de contenedor
+- div y span cumplen función de contenedor
