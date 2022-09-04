@@ -98,14 +98,14 @@ este es mi commit inicial
 # Día 6
 
 - HTML Semántico
-- input
-- buttons
-- aside
-- main
-- nav
--
+- input (espacio para capturar datos)
+- buttons (boton)
+- aside (contenido lateral de la página web)
+- main (envuelve el contenido principal)
+- nav (contenido de navegación de la página)
 
 # Notas
 
 - es la correcta utilización de las etiquetas HTML y prevenir maquetar toda la página web con divs y spans
--
+- style="list-style: none" (elimina los puntos "bullets" de una lista desordenada)
+- style="text-decoration: none; color: #000000" (cambia el texto a color negro)
