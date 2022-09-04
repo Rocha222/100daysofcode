@@ -1,0 +1,12 @@
+ul {
+  list-style: none;
+}
+
+.cabecera {
+  background-color: aqua;
+}
+
+.nav_ul {
+  text-decoration: none;
+  color: black;
+}
