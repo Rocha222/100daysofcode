@@ -3,10 +3,15 @@ ul {
 }
 
 .cabecera {
-  background-color: aqua;
+  background-color: black;
 }
 
-.nav_ul {
+.nav_links {
   text-decoration: none;
-  color: black;
+  color: white;
+}
+
+.cotizador_link {
+  text-decoration: none;
+  color: #ed0000;
 }
