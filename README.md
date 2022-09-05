@@ -119,6 +119,8 @@ este es mi commit inicial
 - style,
 - selector (etiqueta, clase o ID)
 - clase es para estilos
-- ID es para funcionabilidad (java script)
-- .clase (genera una clase)
-- "\*" es el selector universal (segun la teoría)
+- ID es para funcionabilidad de la página web (javascript)
+- .clase (selecciona un elemento mediante una clase)
+- "\*" es el selector universal (según la teoría)
+- las tres formas de aplicar estilos estilos son
+  mediante un archivo externo, con una etiqueta style dentro del header, con atributo style en la etiqueta o elemento
