@@ -109,3 +109,16 @@ este es mi commit inicial
 - es la correcta utilización de las etiquetas HTML y prevenir maquetar toda la página web con divs y spans
 - style="list-style: none" (elimina los puntos "bullets" de una lista desordenada)
 - style="text-decoration: none; color: #000000" (cambia el texto a color negro)
+
+# Día 7
+
+- CSS (3 fomas de aplicar estilos)
+
+## Notas
+
+- style,
+- selector (etiqueta, clase o ID)
+- clase es para estilos
+- ID es para funcionabilidad (java script)
+- .clase (genera una clase)
+- "\*" es el selector universal (segun la teoría)
