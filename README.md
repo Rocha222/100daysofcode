@@ -124,3 +124,18 @@ este es mi commit inicial
 - "\*" es el selector universal (según la teoría)
 - las tres formas de aplicar estilos son
   mediante un archivo de css, con una etiqueta style dentro del header, con el atributo style en la etiqueta o elemento
+
+# Día 8
+
+- The Box Model
+- height (alto)
+- border (border-width,border-color,border-style)
+- width (ancho)
+- padding (el espacio del contenido con relación al borde)
+- margin (el espacio de la caja con relación a otros elementos)
+
+## Notas
+
+- el margin y padding por defecto es 8px
+- en css todo elemento es tratado como una caja
+- box-sizing: border-box; (respeta los valores de alto y ancho asignados a la caja)
