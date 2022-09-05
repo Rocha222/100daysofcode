@@ -138,4 +138,4 @@ este es mi commit inicial
 
 - el margin y padding por defecto es 8px
 - en css todo elemento es tratado como una caja
-- box-sizing: border-box; (respeta los valores de alto y ancho asignados a la caja)
+- box-sizing: border-box; (respeta los valores de alto y ancho asignados al elemento)
