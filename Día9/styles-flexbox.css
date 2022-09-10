@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.cuadrado {
+  height: 50px;
+  width: 50px;
+  border: 1px solid black;
+}
+
+.azul {
+  background-color: blue;
+}
+
+.verde {
+  background-color: green;
+}
+
+.amarillo {
+  background-color: yellow;
+}
+
+.contenedor {
+  display: flex;
+}
