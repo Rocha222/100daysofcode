@@ -139,3 +139,14 @@ este es mi commit inicial
 - el margin y padding por defecto es 8px
 - en css todo elemento es tratado como una caja
 - box-sizing: border-box; (respeta los valores de alto y ancho asignados al elemento)
+
+# Día 9
+
+- flexbox
+
+## Notas
+
+- todo elemento dentro de un contenedor va a pasar a ser un elemento en linea
+- display: flex
+- justify content
+- flex direction
