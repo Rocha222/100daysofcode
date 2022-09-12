@@ -21,3 +21,26 @@ ul {
   text-decoration: none;
   color: #ed0000;
 }
+
+.contenedor {
+  display: flex;
+  padding-top: 25px;
+}
+
+.barra {
+  justify-content: flex-end;
+  padding-left: 1026px;
+}
+
+.referencias {
+  padding-right: 300px;
+  padding-left: 1100px;
+  justify-content: flex-end;
+  justify-content: space-between;
+
+  display: flex;
+}
+
+.logo {
+  padding-left: 330px;
+}
