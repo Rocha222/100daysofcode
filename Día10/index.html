@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HTML Semántico</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body>
+    <header class="cabecera">
+      <div class="contenedor">
+        <div class="logo">
+          <img
+            src="https://www.mitsubishi.cr/wp-content/themes/mitsubishi/images/logo.svg"
+            alt="logo de la marca Mitsubishi Motors"
+          />
+        </div>
+        <div class="navegacion">
+          <div class="barra">
+            <input
+              type="text"
+              class="busqueda esconder"
+              placeholder="Buscar"
+              id="barra_busqueda"
+            />
+            <button class="boton_busqueda" onclick="visibilidadBoton()">
+              <img src="assets/lupa.svg" alt="ícono de búsqueda" />
+            </button>
+          </div>
+
+          <nav>
+            <div class="ul_nav">
+              <ul class="referencias">
+                <li>
+                  <a class="nav_links" href="#">Vehículos</a>
+                </li>
+                <li>
+                  <a class="nav_links" href="#">Historia</a>
+                </li>
+                <li>
+                  <a class="nav_links" href="#">Blog</a>
+                </li>
+                <li>
+                  <a class="nav_links" href="#">Contacto</a>
+                </li>
+                <li>
+                  <a class="cotizador_link" href="#">Cotizador</a>
+                </li>
+                <li>
+                  <a href="#"
+                    ><img
+                      src="https://www.mitsubishi.cr/wp-content/themes/mitsubishi/images/veinsa-logo.svg"
+                      alt="Logo de la marca Veinsa Motors"
+                  /></a>
+                </li>
+              </ul>
+            </div>
+          </nav>
+        </div>
+      </div>
+    </header>
+    <script>
+      function visibilidadBoton() {
+        const barra = document.querySelector("#barra_busqueda");
+        barra.classList.toggle("esconder");
+      }
+    </script>
+  </body>
+</html>

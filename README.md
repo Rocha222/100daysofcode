@@ -143,10 +143,16 @@ este es mi commit inicial
 # Día 9
 
 - flexbox
+- display felx
+- justify-content
+- flex direction
 
 ## Notas
 
-- todo elemento dentro de un contenedor va a pasar a ser un elemento en linea
-- display: flex
-- justify content
+- display: flex (todo elemento dentro de un contenedor va a pasar a ser un elemento en linea)
+- justify-content: flex-end; (mueve los elementos del contenedor hacia la derecha)
+- justify-content: flex-start; (mueve los elementos al inico del contenedor "izquierda a derecha")
+- justify-content: space-betwen; (separa los elementos del contenedor manteniendo una distancia igual entre cada elemento)
+- justify-content: space-around; (separa los elementos dejando hacia los bordes la mitad del espacio entre los elementos)
+- justify-content: space-evenly; (separa los elementos del contenedor manteniendo el mismo espacio entre los elementos y el borde del contenedor)
 - flex direction
