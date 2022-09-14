@@ -155,4 +155,7 @@ este es mi commit inicial
 - justify-content: space-betwen; (separa los elementos del contenedor manteniendo una distancia igual entre cada elemento)
 - justify-content: space-around; (separa los elementos dejando hacia los bordes la mitad del espacio entre los elementos)
 - justify-content: space-evenly; (separa los elementos del contenedor manteniendo el mismo espacio entre los elementos y el borde del contenedor)
-- flex direction
+- flex direction (se utiliza para definir la dirección del contenido)
+- gap (para separar elementos de un mismo contenedor entre si )
+- border-radius: (redondea el borde del elemento)
+- border (para dar ancho al borde)
