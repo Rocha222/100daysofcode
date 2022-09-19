@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HTML Semántico</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <header class="cabecera">
+      <div class="contenedor">
+        <div class="logo">
+          <img
+            src="https://www.mitsubishi.cr/wp-content/themes/mitsubishi/images/logo.svg"
+            alt="logo de la marca Mitsubishi Motors"
+          />
+        </div>
+        <div class="navegacion">
+          <div class="barra">
+            <input
+              type="text"
+              class="busqueda esconder"
+              placeholder="Buscar"
+              id="barra_busqueda"
+            />
+            <button class="boton_busqueda" onclick="visibilidadBoton()">
+              <img src="assets/lupa.svg" alt="ícono de búsqueda" />
+            </button>
+          </div>
+
+          <nav>
+            <div class="ul_nav">
+              <ul class="referencias">
+                <li>
+                  <a class="nav_links" href="#">Vehículos</a>
+                </li>
+                <li>
+                  <a class="nav_links" href="#">Historia</a>
+                </li>
+                <li>
+                  <a class="nav_links" href="#">Blog</a>
+                </li>
+                <li>
+                  <a class="nav_links" href="#">Contacto</a>
+                </li>
+                <li>
+                  <a class="cotizador_link" href="#">Cotizador</a>
+                </li>
+                <li>
+                  <a href="#"
+                    ><img
+                      src="https://www.mitsubishi.cr/wp-content/themes/mitsubishi/images/veinsa-logo.svg"
+                      alt="Logo de la marca Veinsa Motors"
+                  /></a>
+                </li>
+              </ul>
+            </div>
+          </nav>
+        </div>
+      </div>
+      <div class="g4">
+        <div class="textog4">
+          <span> Vehículos / Mirage G4 </span>
+          <h3 class="modelo">Mirage G4</h3>
+          <h1 class="lema">
+            Atrevete a <br />
+            más
+          </h1>
+          <div class="desde">Desde</div>
+          <div class="precio">$ 20,900*</div>
+        </div>
+        <img
+          class="mirage"
+          src="https://www.mitsubishi.cr/wp-content/uploads/2020/03/Foto-banner-cotizador-621x386px-min-3.png"
+          alt="Imagen de vehículo marca Mitsubishi modelo G4 color azul"
+        />
+      </div>
+    </header>
+    <section class="extras"></section>
+    <script>
+      function visibilidadBoton() {
+        const barra = document.querySelector("#barra_busqueda");
+        barra.classList.toggle("esconder");
+      }
+    </script>
+  </body>
+</html>

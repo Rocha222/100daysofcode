@@ -2,7 +2,7 @@
 
 este es mi commit inicial
 
-## Día 1
+# Día 1
 
 - git
 - github
@@ -104,7 +104,7 @@ este es mi commit inicial
 - main (envuelve el contenido principal)
 - nav (contenido de navegación de la página)
 
-# Notas
+## Notas
 
 - es la correcta utilización de las etiquetas HTML y prevenir maquetar toda la página web con divs y spans
 - style="list-style: none" (elimina los puntos "bullets" de una lista desordenada)
@@ -159,3 +159,25 @@ este es mi commit inicial
 - gap: (para separar elementos de un mismo contenedor entre si )
 - border-radius: (redondea el borde del elemento)
 - border: (para dar ancho al borde)
+
+# Día 10
+
+## Notas
+
+- se trabajo en refuerzo del proyecto
+
+# Día 11
+
+- text-trasnform
+
+## Notas
+
+- se trabajo en la barra de busqueda (agregando función)
+
+# Día 12
+
+- position: absolute; ()
+
+## Notas
+
+-
