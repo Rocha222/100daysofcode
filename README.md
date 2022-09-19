@@ -168,7 +168,7 @@ este es mi commit inicial
 
 # Día 11
 
-- text-trasform: uppercase (convierte el texto a mayúsculas)
+- text-transform: uppercase (convierte el texto a mayúsculas)
 
 ## Notas
 
