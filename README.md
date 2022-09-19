@@ -164,19 +164,19 @@ este es mi commit inicial
 
 ## Notas
 
-- se trabajo en refuerzo del proyecto
+- se trabajó en refuerzo del proyecto
 
 # Día 11
 
-- text-trasnform
+- text-trasnform: uppercase (convierte el texto a mayúsculas)
 
 ## Notas
 
-- se trabajo en la barra de busqueda (agregando función)
+- se trabajó en la barra de busqueda (agregando función)
 
 # Día 12
 
-- position: absolute; ()
+- position: absolute; (permite que el elemento se mueva libremente en el contenedor)
 
 ## Notas
 
