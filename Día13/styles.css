@@ -114,6 +114,45 @@ ul {
 }
 
 .extras {
+  display: flex;
   height: 175px;
   background-color: #f4f4f4;
+  align-items: center;
+  justify-content: center;
+}
+
+.elegir {
+  display: flex;
+  gap: 26px;
+}
+
+.icono-con-texto {
+  display: flex;
+  width: 220px;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.icono {
+  height: 64px;
+  width: 78px;
+}
+
+.texto-iconos {
+  color: #676c70;
+  margin-top: 10px;
+}
+
+.boton-cotizar {
+  background-color: #ed0000;
+  color: #ffff;
+  height: 45px;
+  width: 218px;
+  font-size: 18px;
+  border-radius: 25px;
+  border: none;
+  margin-right: 180px;
+  margin-left: 100px;
+  align-self: flex-end;
 }
