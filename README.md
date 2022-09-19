@@ -180,4 +180,7 @@ este es mi commit inicial
 
 ## Notas
 
--
+# Día 13
+
+- align-items (acomoda el contenido en el eje Y)
+- align-self (acomoda un elemento en específico)
