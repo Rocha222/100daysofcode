@@ -184,3 +184,11 @@ este es mi commit inicial
 
 - align-items (acomoda el contenido en el eje Y)
 - align-self (acomoda un elemento en específico)
+
+# Día 14
+
+- se trabajó en la selección de colores
+
+## Notas
+
+- overflow: hidden;
