@@ -192,3 +192,17 @@ este es mi commit inicial
 ## Notas
 
 - overflow: hidden;
+
+# Día 18
+
+- var
+
+## Notas
+
+- las variables son datos almacenados en memoria
+- tipos de datos que se pueden usar como variables >>
+- strings (son cadenas de texto)
+- numbers
+- booleans (verdadero ó falso)
+- arrays (arreglos)
+- object
