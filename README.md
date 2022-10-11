@@ -193,6 +193,18 @@ este es mi commit inicial
 
 - overflow: hidden;
 
+# Día 15
+
+- se trabajó en la galería del Mirage
+
+# Día 16
+
+- ultimos detalles de la galería
+
+# Día 17
+
+- introducción a javascript
+
 # Día 18
 
 - var
@@ -206,3 +218,12 @@ este es mi commit inicial
 - booleans (verdadero ó falso)
 - arrays (arreglos)
 - object
+
+# Día 19
+
+- funciones
+- dom
+
+## Notas
+
+-
