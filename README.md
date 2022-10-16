@@ -222,8 +222,16 @@ este es mi commit inicial
 # Día 19
 
 - funciones
-- dom
+- dom (document object model)
 
 ## Notas
 
--
+# Día 20
+
+- abstracción
+- ciclo for
+
+## Notas
+
+- dentro de un arreglo pueden estar elementos estaticos y objetos
+- i significa index en el ciclo for
