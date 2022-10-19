@@ -51,3 +51,6 @@ var pokemones = [
 for (var i = 0; i < pokemones.length; i++) {
   crearTarjeta(pokemones[i]);
 }
+
+var peticion = fetch('https://pokeapi.co/api/v2/pokemon/130');
+console.log(peticion);
